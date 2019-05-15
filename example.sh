@@ -1,0 +1,1 @@
+./translate.sh data/gramma.en.txt data/gramma.ru.txt
